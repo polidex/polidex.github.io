@@ -1,0 +1,1 @@
+Este repositório tem com finalidade alocar todos os projetos que eu fizer durante o curso de desenvolvimento Web na Trybe.
