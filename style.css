@@ -10,6 +10,7 @@ h1 {
 #apresentacao {
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
+    text-align: justify;
 }    
 h1, h2 {
     color: #20BF55;
@@ -27,4 +28,7 @@ h3, h4 {
 }
 p {
     line-height: 25px;
+}
+h1 {
+    text-align: center;
 }
