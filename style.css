@@ -10,7 +10,6 @@ h1 {
 #apresentacao {
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
-    float: right;
 }    
 h1, h2 {
     color: #20BF55;
@@ -21,7 +20,7 @@ h3, h4 {
 #perfil {
     border-radius: 50%;
     float: left;
-    width: 400px;
+    width: 360px;
 }
 .destacar {
     font-size: x-large;
