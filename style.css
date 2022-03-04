@@ -22,9 +22,11 @@ h3, h4 {
     border-radius: 50%;
     float: left;
     width: 360px;
+    padding: 10px;
+    background-color: #20BF55;
 }
 .destacar {
-    font-size: x-large;
+    font-size: large;
 }
 p {
     line-height: 25px;
