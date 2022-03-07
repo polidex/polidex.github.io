@@ -1,6 +1,7 @@
 
 body {
     background-color: #D1DEDE;
+    padding: 2%;
 }
 
 h1 {
@@ -11,8 +12,9 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     text-align: justify;
-    padding: 10px;
-    top: 30%;
+    position: absolute;
+    left: 390px;
+    top: 150px;
 }    
 h1, h2 {
     color: #20BF55;
@@ -20,13 +22,12 @@ h1, h2 {
 h3, h4 {
     color: #054A91;
 }
-#perfil {
+#minhaFoto {
     border-radius: 50%;
     float: left;
     width: 360px;
     padding: 10px;
     background-color: #20BF55;
-    position: relative;
 }
 .destacar {
     font-size: large;
@@ -34,13 +35,14 @@ h3, h4 {
 }
 .apresentacao {
     height: 380px;
+    position: relative;
 }
 p {
     line-height: 25px;
 }
-h1 {
+.meuNome {
     text-align: center;
 }
-div {
+/* div {
     border: #FF6700 solid;
-}
+} */
